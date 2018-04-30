@@ -11,10 +11,10 @@
 * Tags: html, themplate, Sufee-Admin
 --------------------------------------------------------- */
 .bg-flat-color-1 {
-  background: #20a8d8; }
+  background: rgba(32, 168, 216,0.5); }
 
 .bg-flat-color-2 {
-  background: #63c2de; }
+  background: rgba(99, 194, 222,0.5); }
 
 .bg-flat-color-3 {
   background: #ffc107; }
