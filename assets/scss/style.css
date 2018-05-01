@@ -566,14 +566,12 @@
 .social-box {
   min-height: 160px;
   margin-bottom: 1.5rem;
-  text-align: center;
-  background: #fff; }
+  text-align: center; }
   .social-box i {
     display: block;
     margin: -1px -1px 0;
     font-size: 40px;
-    line-height: 90px;
-    background: #e9ecef; }
+    line-height: 90px; }
   .social-box .chart-wrapper {
     height: 90px;
     margin: -90px 0 0; }
@@ -742,6 +740,15 @@
 
 .bg-flat-color-5 {
   background: #4dbd74; }
+
+.fg-success {
+  color: #28a745; }
+
+.fg-failed {
+  color: #ff2e44; }
+
+.notification {
+  z-index: 2; }
 
 .transition {
   -webkit-transition: all 0.3s ease;
