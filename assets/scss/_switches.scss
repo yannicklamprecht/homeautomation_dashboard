@@ -161,7 +161,7 @@
 }
 
 @mixin switch-variant($color) {
-  > .switch-input:checked ~ .switch-label {
+    > .switch-input:checked ~ .switch-label {
     background: $color !important;
     border-color: darken($color,10%);
   }
